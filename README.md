@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I´m currently working on "User Registration" for React Native [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAF)]
+I´m currently working on "User Registration" for React Native ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
 
 <!--
 **Vinnizius1/Vinnizius1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
