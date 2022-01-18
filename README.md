@@ -2,9 +2,12 @@
 
 I´m currently working on:  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  
+   
+&:  
 
-Em breve 🏗️
-![](react_space.png)
+![](react_space.png)  
+
+🚀 Coming soon, stay tuned! 🏗️ 😂  
 
 <!--
 **Vinnizius1/Vinnizius1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
