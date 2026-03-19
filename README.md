@@ -21,7 +21,7 @@ I fix bugs in production, translate Figma designs into high-fidelity code, and b
 ## 🎯 Featured Projects
 
 - **[Shopping Cart](https://eventcart-app.netlify.app/)** — React + TypeScript + Zustand, discount logic, persistence and unit tests
-- **[Full Stack REST API](https://github.com/Vinnizius1)** — (Coming Soon) Node.js + Express + PostgreSQL + Docker, JWT authentication
+- **[Full Stack REST API](https://github.com/Vinnizius1)** — **(Work in Progress)** Node.js + Express + PostgreSQL + Docker, JWT authentication
 
 ---
 
