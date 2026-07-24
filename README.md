@@ -2,8 +2,6 @@
 
 **Desenvolvedor Front-End** com experiência profissional em produção — expandindo para Full Stack.
 
-> Na **we.digi**, corrigi um bug crítico no mecanismo de busca de um e-commerce (VTEX), melhorei a responsividade de landing pages para mobile e mantive funcionalidades em React/JS com código limpo e documentado.
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
