@@ -45,21 +45,7 @@
 | 🧪 **Qualidade & Testes** | **TDD** com Vitest e React Testing Library (100% das funções puras e hooks) |
 | 📚 **Componentização** | Documentação isolada com **Storybook v10** |
 | 🚀 **Performance (Lighthouse)** | 🟢 95+ em Acessibilidade (a11y), Práticas Recomendadas e SEO |
-| 🔗 **Links** | [💻 Código no GitHub](https://github.com/Vinnizius1/desafio-frontend-union-developers) \| 🌐 [Aplicação ao Vivo (Live Demo)](#) |
-
----
-
-### 🎟️ 2. Event Cart — Carrinho de Ingressos para Eventos
-
-> Aplicação completa de carrinho de compras com lógica de negócio real para eventos.
-
-| Funcionalidade / Aspecto | Detalhes |
-| :--- | :--- |
-| ⚡ **Stack** | React + TypeScript + Zustand |
-| 🎟️ **Regras de Negócio** | Cupons de desconto com validação dinâmica |
-| 💾 **Persistência** | Dados salvos em `localStorage` |
-| 🧪 **Testes** | Testes unitários cobrindo regras de carrinho e cupom |
-| 🔗 **Links** | [💻 Código no GitHub](https://github.com/Vinnizius1/Event-Cart) \| 🌐 [Acessar aplicação ao vivo](#) |
+| 🔗 **Links** | [💻 Código no GitHub](https://github.com/Vinnizius1/desafio-frontend-union-developers) \| 🌐 [Aplicação ao Vivo (Live Demo)](https://desafio-frontend-vinnizius.netlify.app/) |
 
 ---
 
