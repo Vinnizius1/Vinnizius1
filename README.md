@@ -71,4 +71,3 @@ API RESTful desenvolvida em **Node.js** e **Express** com arquitetura MSC (Model
 ## 📬 Conecte-se Comigo
 - 💼 **LinkedIn:** [linkedin.com/in/vinmm](https://www.linkedin.com/in/vinmm/)
 - 📧 **E-mail:** [viniciusmendoncadev@gmail.com](mailto:viniciusmendoncadev@gmail.com)
-- 📍 **GitHub:** [github.com/Vinnizius1](https://github.com/Vinnizius1)
