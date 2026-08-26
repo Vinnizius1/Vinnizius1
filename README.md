@@ -43,7 +43,7 @@
 | ⚡ **Stack Principal** | React 19 + TypeScript + Vite + SCSS Modules (BEM) |
 | 🌐 **Gerenciamento de Estado** | **TanStack Query v5** (Cache em memória e refetch otimizado) |
 | 🧪 **Qualidade & Testes** | **TDD** com Vitest e React Testing Library (100% das funções puras e hooks) |
-| 📚 **Componentização** | Documentação isolada com **Storybook v10** |
+| 📚 **Componentização** | Documentação isolada com **Storybook v8.6 LTS — CSF 3.0** |
 | 🚀 **Performance (Lighthouse)** | 🟢 95+ em Acessibilidade (a11y), Práticas Recomendadas e SEO |
 | 🔗 **Links** | [💻 Código no GitHub](https://github.com/Vinnizius1/desafio-frontend-union-developers) \| 🌐 [Aplicação ao Vivo (Live Demo)](https://desafio-frontend-vinnizius.netlify.app/) |
 
